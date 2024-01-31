@@ -1,7 +1,6 @@
 # Biodata
 
-## Nama
-[Nama Anda]
+Dita wijayanti
 
 ## Umur
 [Umur Anda]
